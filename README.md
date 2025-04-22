@@ -1,8 +1,2 @@
-Make sure to have the following installed: 
-
-streamlit
-pandas
-matplotlib
-seaborn
-scikit-learn
-xgboost
+Install the sample dataset here: 
+https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
